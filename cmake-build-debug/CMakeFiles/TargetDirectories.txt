@@ -1,4 +1,0 @@
-/Users/tundealuko/Codes/SyncSocket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/tundealuko/Codes/SyncSocket/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/tundealuko/Codes/SyncSocket/cmake-build-debug/CMakeFiles/client.dir
-/Users/tundealuko/Codes/SyncSocket/cmake-build-debug/CMakeFiles/server.dir
