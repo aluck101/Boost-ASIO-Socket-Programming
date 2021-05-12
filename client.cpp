@@ -10,7 +10,7 @@ int main() {
     //Creates a socket
     boost::asio::ip::tcp::socket socket(context);
 
-    boost::asio::ip::tcp::endpoint endpoint(boost::asio::ip::make_address("127,0,0,1", ec), 42);
+    boost::asio::ip::tcp::endpoint endpoint(boost::asio::ip::make_address("127,0,0,1", ec), 4242);
 
     //Conection
     socket.connect(endpoint, ec);
